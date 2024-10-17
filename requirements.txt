@@ -3,3 +3,4 @@ python-dotenv
 openai
 aiohttp
 requests
+meta_ai_api
