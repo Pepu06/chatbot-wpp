@@ -13,7 +13,7 @@ def load_configurations(app):
     app.config["RECIPIENT_WAID"] = '541140962011'
     app.config["VERSION"] = 'v20.0'
     app.config["PHONE_NUMBER_ID"] = '472273505962341'
-    app.config["VERIFY_TOKEN"] = '06112006'
+    app.config["VERIFY_TOKEN"] = 'Pepu06112006'
 
 
 def configure_logging():
