@@ -86,6 +86,10 @@ def webhook_get():
 def webhook_post():
     return handle_message()
 
+# hello world route
+@webhook_blueprint.route("/")
+def hello_world():
+    return "Hello, World!"
 
 
 
